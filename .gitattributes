@@ -1,1 +1,3 @@
-*.html linguist-language=android
+*.js linguist-language=andriod
+*.css linguist-language=andriod
+*.html linguist-language=andriod
